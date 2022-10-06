@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/revel-poc.blank-l8xf3vdj",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 64v7Aq9yfQPWbH2Hj36s --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
